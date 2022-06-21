@@ -1,0 +1,10 @@
+Profile Picture
+
+
+Usage:
+!pfp @user - for somebody else
+!pfp - for yourself
+Examples:
+
+!pfp @user1
+!pfp

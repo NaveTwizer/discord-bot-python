@@ -1,0 +1,6 @@
+{
+    "token" : "TOKEN",
+    "commands" : [
+        "help", "ban"
+    ]
+}

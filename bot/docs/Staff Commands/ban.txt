@@ -1,0 +1,10 @@
+BAN COMMAND
+
+
+Usage:
+!ban @user <reason>
+
+Examples:
+!ban @user1 Spamming
+!ban @user2 Sending memes in general chat
+!ban @user3 Measuring distance in miles
